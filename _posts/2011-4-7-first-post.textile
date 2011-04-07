@@ -1,0 +1,10 @@
+---
+layout: post
+title: First Post
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 April 2011 - Taos, New Mexico
+
+First Post! vapor64.com is powered by Tom Preston-Werner's own Jekyll. site should flesh out pretty quick. 
